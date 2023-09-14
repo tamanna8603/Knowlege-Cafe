@@ -1,0 +1,52 @@
+[
+  {
+      "id": 12345,
+      "title": "The Secret Life of Bees",
+      "cover": "https://i.ibb.co/swkZMKp/photo-1470163395405-d2b80e7450ed-ixlib-rb-4-0.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/6sH49J9/premium-photo-1661657430229-fff681142cb8-ixlib-rb-4-0.jpg",
+      "posted_Date": "2023-09-14",
+      "reading_Time": 10,
+      "hashtags": ["Nature", "Insects", "Biology"]
+  },
+  {
+      "id": 67890,
+      "title": "Exploring the Mysteries of Deep Space",
+      "cover": "https://i.ibb.co/qgK3L2S/photo-1508873699372-7aeab60b44ab-ixlib-rb-4-0.jpg",
+      "author": "John Smith",
+      "author_img": "https://example.com/john_smith.jpg",
+      "posted_Date": "2023-09-13",
+      "reading_Time": 15,
+      "hashtags": ["Space", "Astronomy", "Science"]
+  },
+  {
+      "id": 54321,
+      "title": "Cooking Adventures: From Kitchen to Table",
+      "cover": "https://i.ibb.co/NLgZXgr/flat-glamping-social-media-cover-template-23-2149333550.jpg",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/NLgZXgr/flat-glamping-social-media-cover-template-23-2149333550.jpg",
+      "posted_Date": "2023-09-12",
+      "reading_Time": 8,
+      "hashtags": ["Cooking", "Foodie", "Recipes"]
+  },
+  {
+      "id": 98765,
+      "title": "Financial Planning for a Secure Future",
+      "cover": "https://i.ibb.co/k3LCfH0/top-view-hands-working-laptop-with-copy-space-coffee-23-2148397876.jpg",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/k3LCfH0/top-view-hands-working-laptop-with-copy-space-coffee-23-2148397876.jpg",
+      "posted_Date": "2023-09-11",
+      "reading_Time": 12,
+      "hashtags": ["Finance", "Investing", "Budgeting"]
+  },
+  {
+      "id": 24680,
+      "title": "Traveling the World: Adventures Await",
+      "cover": "https://i.ibb.co/wycPtyd/top-view-workspace-with-laptop-notebook-23-2148430831.jpg",
+      "author": "Sarah Wilson",
+      "author_img": "https://i.ibb.co/wycPtyd/top-view-workspace-with-laptop-notebook-23-2148430831.jpg",
+      "posted_Date": "2023-09-10",
+      "reading_Time": 20,
+      "hashtags": ["Travel", "Adventure", "Wanderlust"]
+  }
+]
